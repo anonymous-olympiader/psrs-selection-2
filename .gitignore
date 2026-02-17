@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Входные/выходные изображения (опционально; раскомментируйте при необходимости)
+# Photo1.jpg
+# Photo2.jpg
+# Summer.jpg
+# Autumn.jpg
